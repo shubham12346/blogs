@@ -2,7 +2,7 @@
 
 # Core Functionality ------- Code Completions
 
-# AI Modal Proprietary ----- Ml Modal
+# AI Modal  ----- Proprietary Ml Modal
 
 # Natural Language Support --- None
 
